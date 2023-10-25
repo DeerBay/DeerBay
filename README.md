@@ -13,7 +13,7 @@ I love delving into AI and computing, exploring the vast realm of possibilities 
 
 ## Projects & Contributions
 
-Explore my GitHub repositories to see my AI and machine learning projects and courses, including [Python course](https://github.com/DeerBay/Python-Julia-Sjoholm.git), [Data Processing], and [Machine Learning]. Each project and course taught and teaches me valuable skills in Programming Languages and Technologies, and I'm always eager to collaborate on innovative ideas.
+Explore my GitHub repositories to see my AI and machine learning projects and courses, including [Python course](https://github.com/DeerBay/Python-Julia-Sjoholm.git), [Data Processing](https://github.com/DeerBay/Data-Processing-Julia-Sjoholm.git), and [Machine Learning]. Each project and course taught and teaches me valuable skills in Programming Languages and Technologies, and I'm always eager to collaborate on innovative ideas.
 
 ## Outside the Screen
 
